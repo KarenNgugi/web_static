@@ -35,6 +35,10 @@ button:hover {
     border-right: #ddd 1px solid;
 }
 
+.amenities {
+    margin-right: 20em;
+}
+
 .locations h3,
 .amenities h3 {
     font-weight: 600;
@@ -53,6 +57,7 @@ button:hover {
     border-radius: 4px;
     display: none;
     padding-bottom: 5px;
+    position: relative;
 }
 
 .popover ul, .popover li {
